@@ -16,7 +16,7 @@
     <a href="www.twitter.com/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="www.leetcode.com/TheAyushB">
+    <a href="https://leetcode.com/TheAyushB/">
       <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
     <a href="www.linkedin.com/in/TheAyushB">
