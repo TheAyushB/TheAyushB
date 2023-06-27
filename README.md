@@ -7,19 +7,19 @@
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TheAyushB-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/TheAyushB)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TheAyushB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TheAyushB)
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="www.twitter.com/">
+    <a href="https://www.twitter.com/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://leetcode.com/TheAyushB/">
       <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
-    <a href="www.linkedin.com/in/TheAyushB">
+    <a href="https://www.linkedin.com/in/TheAyushB">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
