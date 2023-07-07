@@ -1,6 +1,8 @@
 # Hi, I'm Ayush Bhardwaj! 👋
 ## 🚀 I'm a full-stack developer...
 
+![](https://komarev.com/ghpvc/?username=TheAyushB&color=dc143c&label=Profile+Visits)
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring the world of technologies.
@@ -14,13 +16,13 @@
 
   <div id="badges">
     <a href="https://www.twitter.com/">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://leetcode.com/TheAyushB/">
-      <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+      <img src="https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/TheAyushB">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
   <br />
