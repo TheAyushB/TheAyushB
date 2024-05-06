@@ -33,7 +33,9 @@
 </div>
 <hr />
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=TheAyushB)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheAyushB)](https://git.io/streak-stats)
+  
 </div>
 
 
