@@ -33,6 +33,8 @@
 </div>
 <hr />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheAyushB)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://www.svgrepo.com/show/374032/reactjs.svg" title="React" alt="React" width="40" height="40"/> &nbsp; &nbsp; 
