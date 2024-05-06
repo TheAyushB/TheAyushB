@@ -32,8 +32,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAyushB&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="TheAyushB stats card" /></p>
 </div>
 <hr />
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=TheAyushB)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheAyushB)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
