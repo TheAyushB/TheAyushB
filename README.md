@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="[https://www.twitter.com/](https://twitter.com/TheAyushB)">
+    <a href="https://twitter.com/TheAyushB">
       <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://leetcode.com/TheAyushB/">
