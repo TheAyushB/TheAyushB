@@ -47,7 +47,7 @@
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/473731/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/378837/node.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; &nbsp;
-  <img src="https://www.svgrepo.com/show/373528/cpp3.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; &nbsp;
+<!--   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; &nbsp; -->
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp; &nbsp;
   <br/>
@@ -56,7 +56,7 @@
   <img src="https://www.svgrepo.com/show/448236/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; &nbsp;
-  <img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; &nbsp;
+<!--   <img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; &nbsp; -->
   <img src="https://www.svgrepo.com/show/452234/java.svg" title="Java" alt="Java" width="40" height="40" />&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/373553/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; &nbsp;
@@ -64,10 +64,10 @@
   <img src="https://www.svgrepo.com/show/373427/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/330398/express.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
-  <img src="https://www.svgrepo.com/show/452184/csharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
-  <img src="https://www.svgrepo.com/show/473592/dotnet.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
+   <!-- // <img src="https://www.svgrepo.com/show/452184/csharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
+  <img src="https://www.svgrepo.com/show/473592/dotnet.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;&nbsp; &nbsp;-->
   <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/brand-github-copilot-icon-512x443-uynt7dzf.png" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
+ <!-- <img src="https://static-00.iconduck.com/assets.00/brand-github-copilot-icon-512x443-uynt7dzf.png" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;&nbsp; &nbsp;-->
   <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;&nbsp; &nbsp;
 
 </div>
