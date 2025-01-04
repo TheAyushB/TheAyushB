@@ -1,5 +1,5 @@
 # 👾 TheAyushB  
-> Building the web, one sarcastic commit at a time.  
+> Building the web, one commit at a time..  
 
 ![](https://komarev.com/ghpvc/?username=TheAyushB&color=dc143c&label=Profile+Visits)
 
